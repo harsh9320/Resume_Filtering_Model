@@ -84,3 +84,7 @@
     <li>Industry experts predict this type of automation technology will transform the recruiting function.</li>
   </ul>
 </b>
+
+
+
+&copy; Harsh Singh
